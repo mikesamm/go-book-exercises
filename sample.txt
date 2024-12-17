@@ -1,0 +1,4 @@
+Here's a multiple line text file
+so that I can practice reading
+files with the GO book exercises.
+Another line for kicks.
