@@ -2,3 +2,4 @@ Here's a multiple line text file
 so that I can practice writing
 files with the GO book exercises.
 Another line for kicks.
+by Extreme Lord Mastermind Dave
